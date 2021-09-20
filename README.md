@@ -4,8 +4,6 @@ Projeto desenvolvido na Trybe no módulo de Front-end no final do Bloco 11: Intr
 
 ## Requisitos do projeto
 
----
-
 ### 1 - Crie um componente `<Header />`
 
 Criar um componente que represente o cabeçalho da página.
